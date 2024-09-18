@@ -1,0 +1,15 @@
+@media screen and (max-width: 991px){
+  .answer-play-red, .answer-pause-red, .next, .finish{
+    float: none !important;
+  }
+  .col-align{
+    text-align: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    margin-bottom: 5px !important;
+  }
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
